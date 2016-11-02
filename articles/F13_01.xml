@@ -57,8 +57,8 @@
          
          <div type="images">
             <figure xml:id="[fig1]">
-               <graphic url="../images/[nameofimagefile.jpg]"/>
-               <head>[Image title here]</head>
+               <graphic url="../images/19th Academy Awards.jpeg"/>
+               <head>19th Academy Awards</head>
                <note type="attribution">[Creator], [date]. Image courtesy of [UCLA Library Special Collections].</note>
                <figDesc>[visual description of the image here. this is not a caption! describe the image briefly for the sight-impaired. it will be read aloud by screen readers.]</figDesc>
             </figure>
